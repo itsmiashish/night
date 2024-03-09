@@ -1,0 +1,105 @@
+
+.wow
+{
+  filter: drop-shadow(10px 10px 20px rgb(0, 0, 0));
+  margin-left: 860px;
+  height: auto;
+  width: 40px;
+  margin-top: -450px;
+  position: absolute;
+ 
+}
+.head
+{
+  display: flex;
+  
+}
+.home
+{
+  margin-left: 350px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 300;
+font-style: inherit;
+margin-bottom: -50px;
+
+}
+
+.text-me
+{
+   /* width:100px; */
+  font-size:50px;
+ font-family:'Times New Roman', Times, serif ;
+ margin-left:300px;
+ margin-top: 100px;
+}
+.lwtex
+{
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+/* text-align: center; */
+margin-left: 300px;
+margin-top: 20px;
+
+
+}
+
+.ama
+{
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 300px;
+  filter: drop-shadow(10px 10px 20px rgb(29, 28, 28));
+
+
+}
+.flip
+{
+  /* position: absolute; */
+  margin-top: 110px;
+  /* display:  inline-block; */
+margin-left: 240px;
+filter: drop-shadow(10px 10px 20px rgb(137, 126, 6));
+
+}
+.also
+{
+  margin-left: 300px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+ margin-top: 95px;
+ position: absolute;
+ font-weight: bold;
+}
+#cart
+{
+  position: absolute;
+  margin-top: 20px;
+  padding: 10px;
+background-color: orange;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: 400px;
+}
+#shop
+{
+  position: absolute;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: yellow;
+  border-radius: 10px 10px 10px 10px;
+  margin-left: 300px;
+  width: 80px;
+  
+}
+.img
+{
+  position: absolute;
+  margin-top: -20px;
+}
+@media(min-widhth:600px)and(min-widhth:600px)
+{
+  div
+  {
+    width: 518px;
+    height: 568px;
+  }
+}
